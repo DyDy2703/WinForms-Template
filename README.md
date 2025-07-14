@@ -107,8 +107,8 @@ Sau khi hoàn thành bài làm của tuần, hãy đẩy các commit từ máy t
 
 4.  **Đặt tiêu đề cho Pull Request** theo cú pháp:
 
-      * `[Nộp bài Tuần XX]-[MSSV]-[Họ Tên] - `
-      * *Ví dụ:* `[Nộp bài Tuần 02]-2001210123-Nguyễn Văn A`
+      * `[Mã sinh viên-Họ và tên] Bài thực hành tuần X (X là thứ tự của tuần)`
+      * *Ví dụ:* `[2001210123-Nguyễn Văn A] Bài thực hành tuần 1`
 
 5.  Nhấn nút **"Create pull request"**.
 
